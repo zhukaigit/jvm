@@ -1,0 +1,11 @@
+.settings
+.idea
+*.iml
+*.bat
+.DS_Store
+*.cmd
+mvnw
+.mvn/
+logs/
+*.hprof
+out/
